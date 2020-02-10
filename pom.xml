@@ -39,5 +39,6 @@
 	<modules>
 		<module>jdbc</module>
 		<module>java-pratice05</module>
+		<module>bookmall</module>
 	</modules>
 </project>
