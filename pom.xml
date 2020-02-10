@@ -40,5 +40,6 @@
 		<module>jdbc</module>
 		<module>java-pratice05</module>
 		<module>bookmall</module>
+		<module>bookshop</module>
 	</modules>
 </project>
