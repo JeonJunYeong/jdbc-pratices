@@ -38,5 +38,6 @@
   
 	<modules>
 		<module>jdbc</module>
+		<module>java-pratice05</module>
 	</modules>
 </project>
